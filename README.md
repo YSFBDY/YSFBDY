@@ -5,11 +5,11 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysfbdy&label=Profile%20views&color=0e75b6&style=flat" alt="ysfbdy" /> </p>
 
-- 🌱 I’m currently learning **backed Devolpmet**
+- 🌱 I’m currently learning **Backend Devolpmet**
 
 - 🧑‍🎓 I’m currently **CS Student @MTI university**
 
-- 👯 I’m looking to collaborate on **AI models**
+- 👯 I’m looking to collaborate on **Backend Projrcts**
 
 - 👨‍💻 I am a professional in **Analysis & Design SW projects**
 
