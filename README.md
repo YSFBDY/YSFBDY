@@ -55,7 +55,9 @@
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
     </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Badge" width="60" height="20"/> 
+    </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
     </a> 
