@@ -9,7 +9,7 @@
 
 - 🧑‍🎓 I’m currently **CS Student @MTI university**
 
-- 👯 I’m looking to collaborate on **Backend Projrcts**
+- 👯 I’m looking to collaborate on **Backend Projects**
 
 - 👨‍💻 I am a professional in **Analysis & Design SW projects**
 
